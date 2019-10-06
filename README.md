@@ -15,5 +15,8 @@ This script is for attacking unprotected websites & servers. I myself have teste
 ## That's it 
 * Run the main file-
 > bash main.sh
-& wait for the magic
+* & wait for the magic
 * PS- Don't worry as you see your ram & CPU consumption hitting the roof, remember what Thanos said, "A small price to pay for salvation" XD
+## Contri. & Contact
+Feel free to make any contribution. The author can be contacted via Telegram -
+` @M_A_A_L_I_K `
