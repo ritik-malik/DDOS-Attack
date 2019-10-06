@@ -7,3 +7,13 @@ This script is for attacking unprotected websites & servers. I myself have teste
 > git clone https://github.com/ritik-malik/ddos-attack.git
 * Change to the downloaded directory-
 > cd ddos-attack
+* Change the permissions to executable-
+> chmod +x *
+* Edit ddos.sh for writing the desired website
+* Edit main.sh for changing the total no. of requests
+* Send these 2 files to host machines (if using, preffered atleast 4) either via send_files.sh & test1.sh or maybe drive, email or python server.
+## That's it 
+* Run the main file-
+> bash main.sh
+& wait for the magic
+* PS- Don't worry as you see your ram & CPU consumption hitting the roof, remember what Thanos said, "A small price to pay for salvation" XD
